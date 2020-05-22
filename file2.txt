@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 This is Just another File 
     Just adding abit of text here
 
+Another paragraph added ;)
 
-Another paragrath added ;)
-=======
 This is Just another File 
->>>>>>> parent of 57e0180... added some txt
+
+
+
