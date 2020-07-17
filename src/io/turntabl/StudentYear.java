@@ -1,4 +1,8 @@
 package io.turntabl;
 
-public class StudentYear {
+public enum  StudentYear {
+    FIRST,
+    SECOND,
+    THIRD,
+    FOURTH,
 }
